@@ -10,6 +10,6 @@ following data:
 The program should handle the following exceptions by displaying an error message: 
  
 •  FileNotFoundError exceptions that are raised when the specified filename cannot be 
-found. 
+found.
 •  IndexError exceptions that are raised when the line number is outside the range of the 
-data list. 
+data list.
