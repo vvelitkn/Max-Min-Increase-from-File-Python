@@ -1,6 +1,6 @@
-The file USPopulation.txt contains the midyear population of the United States, in thousands, 
-during the years 1950 through 1990. The first line in the file contains the population for 1950, the 
-second line contains the population for 1951, and so forth. 
+The file somewhere.txt contains the midyear population of the somewhere, in thousands, 
+during the years 2000 through 2000. The first line in the file contains the population for 2000, the 
+second line contains the population for 2001, and so forth. 
  
 Write a program that reads the file’s contents into a list. The program should display the  
 following data: 
