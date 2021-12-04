@@ -1,6 +1,6 @@
 try:
-	year = 1950
-	liste = [int(line.rstrip()) for line in open('USPopulation.txt', 'r')]
+	year = 2000
+	liste = [int(line.rstrip()) for line in open('somewhere.txt', 'r')]
 	dic = {}
 	valuedic = {}
 	for i in range (0, len(liste)-1):
